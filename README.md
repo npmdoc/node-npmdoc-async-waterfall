@@ -1,6 +1,6 @@
 # npmdoc-async-waterfall
 
-#### api documentation for  [async-waterfall (v0.1.5)](https://github.com/es128/async-waterfall)  [![npm package](https://img.shields.io/npm/v/npmdoc-async-waterfall.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-async-waterfall) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-async-waterfall.svg)](https://travis-ci.org/npmdoc/node-npmdoc-async-waterfall)
+#### basic api documentation for  [async-waterfall (v0.1.5)](https://github.com/es128/async-waterfall)  [![npm package](https://img.shields.io/npm/v/npmdoc-async-waterfall.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-async-waterfall) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-async-waterfall.svg)](https://travis-ci.org/npmdoc/node-npmdoc-async-waterfall)
 
 #### Runs a list of async tasks, passing the results of each into the next one
 
@@ -57,7 +57,8 @@
         "type": "git",
         "url": "git://github.com/%3Aes128/async-waterfall.git"
     },
-    "version": "0.1.5"
+    "version": "0.1.5",
+    "bin": {}
 }
 ```
 
